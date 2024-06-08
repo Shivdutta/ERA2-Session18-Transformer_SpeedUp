@@ -1,4 +1,4 @@
-# Transformer - Language Translation
+# Transformer - Language Translation Speedup
 
 This repository contains following files:
 
@@ -9,20 +9,3 @@ This repository contains following files:
 - `train.py`: Contain utilities for model trainingP
 - `PyLight_S16_17.ipynb.ipynb`: Notebook with model training details
 
-
-## Training Details
-
-- The model was trained on dataset from HuggingFace on Google Colab Notebook
-
-- The transformer model is trained to translate the English to Italian
-
-- The model is trained for 10 epochs
-  ![Training Log](Data/training.jpg)
-
-- Below is the sample output after training
-
-```commandline
-    SOURCE: How often am I to say the same thing?
-    TARGET: quante volte dovrò ripetere la stessa cosa?
-    PREDICTED: Come sono contenta di fare ?
-```
