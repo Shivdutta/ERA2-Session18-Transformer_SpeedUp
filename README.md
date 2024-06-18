@@ -9,11 +9,6 @@ This repository contains following files:
 - `train.py`: Contain utilities for model trainingP
 - `PyLight_S18.ipynb`: Notebook with model training details
 
-# Transformer - Language Translation Speedup
-
-## Overview
-This project aims to speed up language translation by training a Transformer model for translating English to Italian. The model is trained using the PyTorch Lightning framework, which provides a high-level interface for PyTorch, enabling efficient and scalable deep learning model training.
-
 ## Training Details
 
 ### Data Preparation
